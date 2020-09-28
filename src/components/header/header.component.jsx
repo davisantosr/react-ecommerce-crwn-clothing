@@ -39,9 +39,10 @@ const Header = ({ currentUser, hidden  }) => (
 );
 
 //Redux
-const mapStateToProps = ({user: {currentUser}, cart: {hidden}}) =>({
-    currentUser,
-    hidden
-});
+const mapStateToProps = ({
+    user: {currentUser}, cart: {hidden}}) =>({
+        currentUser,
+        hidden
+    });
 
 export default connect(mapStateToProps)(Header);
