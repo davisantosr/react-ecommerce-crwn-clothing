@@ -20,7 +20,6 @@ const rootReducer = combineReducers ({
     shop: shopReducer
 })
 
-
 export default  persistReducer(persistConfig, rootReducer)
 
 
