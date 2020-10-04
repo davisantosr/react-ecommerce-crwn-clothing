@@ -6,6 +6,7 @@ The application is a Web ECOMMERCE page
 
 ## Tech
 [React](https://reactjs.org/)
+
 [Firestore](https://firebase.google.com/)
 
 
