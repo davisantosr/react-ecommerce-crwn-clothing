@@ -1,4 +1,4 @@
-# Monsters Rolodex
+# Crwn Clothing
 
 See how is the application: https://crwnclothing-react-davisantosr.herokuapp.com
 
